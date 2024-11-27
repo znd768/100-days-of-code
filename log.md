@@ -1,11 +1,15 @@
 # 100 Days Of Code - Log
 
 ### Day 0: 2024/11/25 (日)
+
 **Today's Progress**: ポートフォリオサイトの改修をした。頭の中に実現したいことがあったのだが出来が最初に思ったことと何か違うものになってしまった。正直変更前の方が良かったとは思うがせっかく3時間くらいかけたからそのまま残すことにした。SVG本当難しい
 
 ### Day 1: 2024/11/27 (水)
+
 **Today's Progress**: 一昨日Pycharmを1年サブスクリプションを購入したので、昨日に続いてAPIエンドポイント作成のチュートリアルを進めた。
+
 **Link to tutorial:** [link](https://blog.jetbrains.com/pycharm/2023/09/building-apis-with-django-rest-framework/)
+
 ---
 
 ### Day 0: February 30, 2016 (Example 1)
